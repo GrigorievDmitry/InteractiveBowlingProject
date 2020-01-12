@@ -27,4 +27,4 @@ Sergey Baranovsky (barsdefy@gmail.com)\
 Yury Senatorov et al.
 
 The access to the main project code and hardware specifications could be granted by a request. Please, mail to vintskevich@phystech.edu
-It is non commercial project up to the present date
+It is non commercial project up to the present date.
