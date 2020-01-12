@@ -1,5 +1,5 @@
 # Promo video
-[![Watch the video](https://img2.freepng.ru/20180514/ape/kisspng-bowling-balls-ten-pin-bowling-5afa06cb3cb4d4.0469389315263351792487.jpg)](https://drive.google.com/file/d/1Is4h7oYJsJo766uNBcOIo9cVRNqc3fnH/view?usp=sharing)
+[![Watch the video](http://kearnymesabowl.com/images/u1662-r.png?crc=296599526)](https://drive.google.com/file/d/1Is4h7oYJsJo766uNBcOIo9cVRNqc3fnH/view?usp=sharing)
 
 # Project development team
 *Main stuff:*
