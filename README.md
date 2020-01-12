@@ -23,7 +23,7 @@ Second-year undergraduate  student, Massachusets Institute of Technology, savva@
 
 *Financial support:*
 
-Sergey Baranovsky (barsdefy@gmail.com)\
+Sergey Baranovsky, barsdefy@gmail.com\
 Yury Senatorov et al.
 
 The access to the main project code and hardware specifications could be granted by a request. Please, mail to vintskevich@phystech.edu
