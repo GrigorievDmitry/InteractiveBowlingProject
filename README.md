@@ -1,9 +1,8 @@
-# The access to the main project code could be granted by request. Mail to vintskevich@phystech.edu
 
 # Project development team
 *Main stuff:*
 
-Dr. Stephen V Vintskevich - Team leader, Chief developer\
+Stephen V Vintskevich - Team leader, Chief developer\
 MIPT, vintskevich@phystech.edu
 
 Dmitry A Grigoriev - Chief developer, Chief software developer\
@@ -14,7 +13,7 @@ PhD student MIPT, grigorievdmtr@gmail.com
 Phillip Khabanov - Electronics developer\
 PhD student MIPT, khabanov@phystech.edu
 
-Dr. Viacheslav Sadykov - Assistant software developer\
+Viacheslav Sadykov - Assistant software developer\
 NASA ARC / BAERI, USA, viacheslav.m.sadykov@nasa.gov
 
 Savva Morozov - Assistant hardware developer\
@@ -22,8 +21,9 @@ Second-year undergraduate  student, Massachusets Institute of Technology, savva@
 
 *Financial support:*
 
-Yury Senatorov, yuri.senatorov@gmail.com
+Yury Senatorov, yuri.senatorov@gmail.com et al.
 
 Sergey Baranovsky, barsdefy@gmail.com
 
-*By the present day it is non commercial project.*
+* It is non commercial project up to present date*
+*The access to the main project code could be granted by request. Mail to vintskevich@phystech.edu*
