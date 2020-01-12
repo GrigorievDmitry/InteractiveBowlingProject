@@ -4,10 +4,10 @@
 # Project development team
 *Main stuff:*
 
-Stephen V Vintskevich - Chief developer\
+Stephen V Vintskevich - Project Leader, Chief developer\
 MIPT, vintskevich@phystech.edu
 
-Dmitry A Grigoriev - Chief developer\
+Dmitry A Grigoriev - Chief developer and Engineer\
 PhD student MIPT, grigorievdmtr@gmail.com
 
 *Secondary stuff:*
