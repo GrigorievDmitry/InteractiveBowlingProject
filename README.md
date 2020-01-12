@@ -1,9 +1,5 @@
 
 
-
-
-
-
 # Project development team
 *Main stuff:*
 
@@ -30,5 +26,5 @@ Yury Senatorov, yuri.senatorov@gmail.com et al.
 
 Sergey Baranovsky, barsdefy@gmail.com
 
-The access to the main project code and hardware specifications could be granted by a request. Please, mail to vintskevich@phystech.edu *
+The access to the main project code and hardware specifications could be granted by a request. Please, mail to vintskevich@phystech.edu
 It is non commercial project up to present date
