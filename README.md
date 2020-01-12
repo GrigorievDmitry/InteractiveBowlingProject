@@ -1,5 +1,5 @@
 # Promo video
-[![Watch the video](https://imgur.com/a/ToMZ09V)](https://drive.google.com/file/d/1Is4h7oYJsJo766uNBcOIo9cVRNqc3fnH/view?usp=sharing)
+[![Watch the video](https://img2.freepng.ru/20180514/ape/kisspng-bowling-balls-ten-pin-bowling-5afa06cb3cb4d4.0469389315263351792487.jpg)](https://drive.google.com/file/d/1Is4h7oYJsJo766uNBcOIo9cVRNqc3fnH/view?usp=sharing)
 
 # Project development team
 *Main stuff:*
@@ -23,7 +23,7 @@ Second-year undergraduate  student, Massachusets Institute of Technology, savva@
 
 *Financial support:*
 
-Yury Senatorov et al.\
+Yury Senatorov et al.
 Sergey Baranovsky
 
 The access to the main project code and hardware specifications could be granted by a request. Please, mail to vintskevich@phystech.edu
