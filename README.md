@@ -26,4 +26,4 @@ Second-year undergraduate  student, Massachusets Institute of Technology, savva@
 Sergey Baranovsky, barsdefy@gmail.com\
 Yury Senatorov et al.
 
-The main project code is now open source. See https://github.com/GrigorievDmitry/bowling_server and https://github.com/GrigorievDmitry/bowling_prediction.
+The main project code is now open source. See https://github.com/GrigorievDmitry/bowling_server and https://github.com/GrigorievDmitry/bowling_prediction for server and client code respectively.
