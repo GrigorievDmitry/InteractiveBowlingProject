@@ -1,5 +1,5 @@
 # Promo video (Press on picture)
-[![Watch the video](http://kearnymesabowl.com/images/u1662-r.png?crc=296599526)](https://drive.google.com/file/d/1Is4h7oYJsJo766uNBcOIo9cVRNqc3fnH/view?usp=sharing)
+[![Watch the video]](https://drive.google.com/file/d/1Is4h7oYJsJo766uNBcOIo9cVRNqc3fnH/view?usp=sharing)
 
 # Project development team
 *Main stuff:*
